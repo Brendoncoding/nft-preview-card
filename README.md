@@ -29,8 +29,15 @@ Users should be able to:
 
 ### Screenshot
 Desktop view - 
+![Desktop preview](https://user-images.githubusercontent.com/92688057/149570331-3957be50-0a1e-483f-8d25-fa0d697bb7b7.png)
+
 
 Mobile view - 375px
+![mobile preview](https://user-images.githubusercontent.com/92688057/149570351-ea6e2c5f-d4da-4a7d-b30d-73246c0ecc68.png)
+
+Active effects -
+![active effects](https://user-images.githubusercontent.com/92688057/149570385-99b5b6ba-9eca-41c6-9088-27124473baab.png)
+
 
 ### Links
 
