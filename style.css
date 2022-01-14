@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: hsl(217, 54%, 11%);
+}
+.container{
+    color: hsl(0, 0%, 100%);
+    margin: 50px auto 0 auto;
+    width: 300px;
+    max-width: 300px;
+    padding: 20px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    height: 500px;
+    max-height:600px;
+    box-shadow: 0 0 1.2em hsl(215, 33%, 7%);
+}
+p{
+    display: inline-block;
+    margin: 15px 0 10px 0;  
+    color: hsl(215, 51%, 70%); 
+    
+}
+
+.content-image{
+    width: 100%;
+    height: 55%;
+}
+.content-image-src{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;  
+}
+h1{
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 10px 0 0 0;
+    color: hsl(0, 0%, 100%);
+    
+}
+.days-left{
+   float: right;
+}
+.content-bottom{
+    padding: 5px;
+    color:hsl(215, 51%, 70%);  
+}
+#profile-picture{
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+    vertical-align: middle; 
+    margin-right: 10px;
+}
+hr{
+    margin: 10px 0 15px 0;
+    background-color: rgb(31, 30, 30);
+    border:0.1px solid hsl(0, 1%, 39%);
+    
+}
+.ethereum-text{
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+strong{
+    color: hsl(0, 0%, 100%);
+}
+
+strong:hover , h1:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+.div-image-above{
+    width: 100%;
+    background-color: hsl(178, 100%, 50%);
+    height: 265px;
+    opacity:0;
+    position: relative;
+    bottom: 265px;
+    border-radius: 5px;
+}
+.image-above{
+    position: relative;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50% ,-25%);
+    -ms-transform: translate(-50%, -50%);
+    opacity: 1;   
+}
+.div-image-above:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+.content-image-src:hover{
+    cursor: pointer;
+}
+img{
+    vertical-align: text-bottom;
+}
