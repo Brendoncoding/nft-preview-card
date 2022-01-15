@@ -17,7 +17,7 @@ body{
     border-radius: 10px;
     height: 500px;
     max-height:600px;
-    box-shadow: 0 0 1.2em hsl(215, 33%, 7%);
+    box-shadow: 2px 1px 8px hsl(216, 21%, 9%);
     position: absolute;
     top: 50%;
     left: 50%;
