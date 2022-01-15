@@ -74,4 +74,8 @@ be able to improve my skills with css.
 - Frontend Mentor - [@Brendoncoding](https://www.frontendmentor.io/profile/Brendoncoding)
 - Github - [@Brendoncoding](https://github.com/Brendoncoding)
 
+## Acknowledgments
+
+I Wanna thank @remus432- (https://www.frontendmentor.io/profile/Remus432) and @darryncodes - (https://www.frontendmentor.io/profile/darryncodes) from front end mentor,
+who gave me some tips on my project.
 
